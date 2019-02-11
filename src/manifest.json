@@ -1,0 +1,14 @@
+{
+  "name": "Angular 7 starter Kit by Swapnil Shinde",
+  "short_name": "Angular 7 starter Kit by Swapnil Shinde",
+  "theme_color": "#488aff",
+  "background_color": "#488aff",
+  "scope": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [{
+    "src": "assets/Swapnil_shinde_Logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}

@@ -1,0 +1,16 @@
+{
+  "APP_NAME": "Angular 7 starter Kit",
+  "About": "बद्दल",
+  "Hello world !": "Hello Team !",
+  "Home": "घर",
+  "Logged in as": "म्हणून लॉग इन",
+  "Login": "लॉग इन",
+  "Logout": "बाहेर पडणे",
+  "Password": "पासवर्ड",
+  "Password is required": "पासवर्ड आवश्यक आहे",
+  "Username": "वापरकर्तानाव",
+  "Username is required": "वापरकर्तानाव आवश्यक आहे",
+  "Username or password incorrect.": "वापरकर्तानाव किंवा पासवर्ड चुकीचा आहे.",
+  "Remember me": "माझी आठवण ठेवा",
+  "Version": "Version"
+}
